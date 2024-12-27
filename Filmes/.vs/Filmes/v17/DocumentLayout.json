@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\menus\\visualizarfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\menus\\visualizarfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\menus\\deletarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\menus\\deletarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\menus\\adicionarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\menus\\adicionarfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\modelos\\apiomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\modelos\\apiomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|c:\\gabriel lima\\linguagens e afins\\c#\\filmes\\filmes\\modelos\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1230C6-4417-4104-AC0C-449BA5996E5B}|Filmes\\Filmes.csproj|solutionrelative:filmes\\modelos\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Program.cs",
+              "RelativeDocumentMoniker": "Filmes\\Program.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Program.cs",
+              "RelativeToolTip": "Filmes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:34:11.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdicionarFilme.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\AdicionarFilme.cs",
+              "RelativeDocumentMoniker": "Filmes\\Menus\\AdicionarFilme.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\AdicionarFilme.cs",
+              "RelativeToolTip": "Filmes\\Menus\\AdicionarFilme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:00:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "Filmes\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\Menu.cs",
+              "RelativeToolTip": "Filmes\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:04:04.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletarFilme.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\DeletarFilme.cs",
+              "RelativeDocumentMoniker": "Filmes\\Menus\\DeletarFilme.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\DeletarFilme.cs",
+              "RelativeToolTip": "Filmes\\Menus\\DeletarFilme.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:43:34.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Modelos\\Filme.cs",
+              "RelativeDocumentMoniker": "Filmes\\Modelos\\Filme.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Modelos\\Filme.cs",
+              "RelativeToolTip": "Filmes\\Modelos\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:52:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualizarFilmes.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\VisualizarFilmes.cs",
+              "RelativeDocumentMoniker": "Filmes\\Menus\\VisualizarFilmes.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Menus\\VisualizarFilmes.cs",
+              "RelativeToolTip": "Filmes\\Menus\\VisualizarFilmes.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:26:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "Filmes\\Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Filtros\\LinqFilter.cs",
+              "RelativeToolTip": "Filmes\\Filtros\\LinqFilter.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:22:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIOmdb.cs",
+              "DocumentMoniker": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Modelos\\APIOmdb.cs",
+              "RelativeDocumentMoniker": "Filmes\\Modelos\\APIOmdb.cs",
+              "ToolTip": "C:\\Gabriel Lima\\linguagens e afins\\C#\\Filmes\\Filmes\\Modelos\\APIOmdb.cs",
+              "RelativeToolTip": "Filmes\\Modelos\\APIOmdb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:45:38.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
