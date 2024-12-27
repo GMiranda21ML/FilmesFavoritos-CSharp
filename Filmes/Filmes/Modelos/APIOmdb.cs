@@ -11,7 +11,9 @@ internal class APIOmdb
             string url = await client.GetStringAsync($"https://www.omdbapi.com/?t={filme}&apikey=9882acd4");
             return url;
         }
+        
     }
+
 
     public static Filme VisualizarAPI(string url)
     {

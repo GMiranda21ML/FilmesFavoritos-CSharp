@@ -64,4 +64,5 @@ internal class AdicionarFilme : Menu
 
         Thread.Sleep(1000);
     }
+    
 }
